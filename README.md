@@ -1,9 +1,4 @@
 <h1 align="center">Hi👋 I am Sneha Pradhan</h1>
-![giphymoti](https://github.com/SnehaPradhan04/SnehaPradhan04/assets/146933314/ca948863-5e24-497d-b40a-417f692ace00)
-(https://github.com/SnehaPradhan04/SnehaPradhan04/assets/142439445/c54b58e3-f8ff-4bdb-9930-
-1d228ca82de6)
-
-
 
 <h1 align="center"> Full Stack DataScientist </h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a><img src="https://komarev.com/ghpvc/?username=SnehaPradhan04"height="20px">
 
