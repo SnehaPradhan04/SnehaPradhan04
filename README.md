@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋 I am Sneha Pradhan</h1>
 
-<h1 align="center"> Full Stack DataScientist </h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a><img src="https://komarev.com/ghpvc/?username=SnehaPradhan04"height="20px">
+</h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a><img src="https://komarev.com/ghpvc/?username=SnehaPradhan04"height="20px">
 
 I am an undergraduate in ECE from NIT SIKKIM 💻 with experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥.  I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
