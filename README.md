@@ -9,7 +9,6 @@ I am an undergraduate in ECE from NIT SIKKIM 💻 with experience in exploratory
 
 
 
-- 🔭 I’m currently working on Esports Management System.
 - 🧮 I’m currently learning Generative AI.
 - 👯 I’m looking to collaborate on any Computer Vision related research project.
 - 📫 How to reach me: [Gmail](mailto:sppradhan3007@gmail.com@gmail.com)
