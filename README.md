@@ -2,7 +2,7 @@
 
 </h1> <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a><img src="https://komarev.com/ghpvc/?username=SnehaPradhan04"height="20px">
 
-I am an undergraduate in ECE from NIT SIKKIM 💻 with experience in exploratory data analysis, machine learning, computer vision, and statistics 🔥.  I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
+I am an undergraduate in ECE from NIT SIKKIM 💻 having keen interest in exploratory data analysis, machine learning, computer vision, and statistics 🔥.  I enjoy sharing valuable insights 🧐 and making an impact that helps others learn. I am always open to discussions, so feel free to ask questions or share concerns 💬.
 
 <p><a href="mailto:sppradhan3007@gmail.com@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 ## ⚡ A Few Quick Facts:
@@ -10,7 +10,7 @@ I am an undergraduate in ECE from NIT SIKKIM 💻 with experience in exploratory
 
 
 - 🧮 I’m currently learning Generative AI.
-- 👯 I’m looking to collaborate on any Computer Vision related research project.
+- 👯 I’m looking to collaborate on any Computer Vision or Data Analytics related research project.
 - 📫 How to reach me: [Gmail](mailto:sppradhan3007@gmail.com@gmail.com)
 <br>
 
